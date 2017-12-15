@@ -1,0 +1,13 @@
+insert into Students values ('Анна','Данилова','Сергеевна');
+insert into Students values ('Кристина','Шараева','Витальевна');
+insert into Students values ('Екатерина','Меттус','Анатольевна');
+insert into Students values ('Татьяна','Дзензура','Михайловна');
+insert into Students values ('Роман','Капустин','Олегович');
+insert into Students values ('Максим','Баркалов','Максимович');
+insert into Students values ('Антон','Клочков','Павлович');
+insert into Students values ('Кирилл','Арестов','Алексеевич');
+insert into Students values ('Сергей','Салин','Александрович');
+insert into Students values ('Георгий','Певнев','Владиславович');
+insert into Students values ('Ильфат','Саяхов','Раилевич');
+insert into Students values ('Илья','Селиванов','Сергеевич');
+insert into Students values ('Екатерина','Таланцева','Станиславовна');

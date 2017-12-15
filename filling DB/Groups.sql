@@ -1,0 +1,9 @@
+insert into Groups values ('M3200');
+insert into Groups values ('M3201');
+insert into Groups values ('M3203');
+insert into Groups values ('M3204');
+insert into Groups values ('M3205');
+insert into Groups values ('M3206');
+insert into Groups values ('M3207');
+insert into Groups values ('M3208');
+insert into Groups values ('M3209');
